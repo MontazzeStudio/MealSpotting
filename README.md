@@ -1,5 +1,8 @@
-MealSpotting
+[Archive] MealSpotting
 ============
+
+**Note:** *This repository is not under active development.*
+
 This project show you how to upload images to Parse from an Android app, and retrieve and display them later.
 
 How to Run
